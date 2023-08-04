@@ -6,7 +6,7 @@ Este repositorio contiene seis proyectos realizados durante el curso de QA Engin
 
 ## Proyecto 1: Diseño de Pruebas 
 
-En este proyecto, se implementó un framework de automatización de pruebas usando Selenium WebDriver en lenguaje Python. El objetivo era probar funcionalidades clave de una aplicación web y asegurar que se cumplieran los criterios de aceptación. Se incluyen casos de prueba, informes de ejecución y explicaciones detalladas de la implementación.
+En este proyecto, el objetivo era probar funcionalidades clave de una aplicación web y asegurar que se cumplieran los criterios de aceptación. Se incluyen casos de prueba, informes de ejecución y explicaciones detalladas de la implementación.
 "https://docs.google.com/document/d/1bt25BSkJ7DEGBnIrYbVniIZPQQZTHC2TS55uSJhjh4c/edit?usp=sharing"
 
 ## Proyecto 2: Pruebas de Aplicaciones Web
